@@ -1,0 +1,1012 @@
+@media (max-width: 1440px) {
+  .container {
+    width: 1140px;
+  }
+}
+
+@media (max-width: 1200px) {
+  #travel {
+    .travel {
+      &--nature {
+        button {
+          padding: 10px 56px !important;
+          margin: 10px 0;
+        }
+
+        &__image {
+          img {
+            width: 100%;
+          }
+        }
+      }
+    }
+  }
+  #header {
+    .header {
+      &--nav {
+        &__block a {
+          display: none;
+
+        }
+      }
+    }
+  }
+  #animation {
+    .animation {
+      &--store {
+        &__moon {
+          h1 {
+            font-size: 35px !important;
+          }
+        }
+
+        &__moon2 {
+          h2 {
+            font-size: 28px !important;
+          }
+        }
+      }
+    }
+  }
+  #paket {
+    .paket {
+      flex-wrap: wrap;
+
+      &--start {
+        p {
+          font-size: 14px !important;
+
+        }
+      }
+    }
+  }
+
+
+}
+
+@media (max-width: 1024px) {}
+
+@media (max-width: 992px) {
+  #header {
+    .header {
+      width: 86%;
+    }
+  }
+  #hero {
+    .hero {
+      &--club {
+        h1 {
+          margin-left: 18px;
+        }
+
+      }
+    }
+  }
+  #hero {
+    .hero {
+      &--club {
+        p {
+          padding: 15px 18px !important;
+        }
+      }
+    }
+  }
+  #miss {
+    .miss {
+      &--fon {
+        flex-direction: column;
+
+      }
+
+      h1 {
+        margin-left: 20px;
+      }
+    }
+  }
+  #travel {
+    .travel {
+      &--nature {
+        &__image {
+          img {
+            width: 100%;
+          }
+        }
+      }
+    }
+  }
+
+}
+
+@media (max-width: 820px) {
+  #zayavka {
+    .zayavka {
+
+      &--cap {
+        &__kaif {
+          input {
+            width: 439px !important;
+          }
+        }
+
+        &__text {
+          h1 {
+            font-size: 18px !important;
+          }
+        }
+      }
+    }
+  }
+  #footer {
+    .footer {
+
+
+      &--company {
+        img {
+          display: none;
+        }
+      }
+    }
+  }
+  #travel {
+    .travel {
+      &--nature {
+        &__image {
+          img {
+            width: 100%;
+          }
+        }
+      }
+    }
+  }
+}
+
+@media (max-width: 768px) {
+  #footer {
+    .footer {
+      &--company {
+        &__desc {
+          flex-direction: column !important;
+        }
+      }
+    }
+  }
+  #paket {
+    .paket {
+      flex-wrap: wrap;
+
+      &--start {
+        p {
+          font-size: 13px !important;
+
+        }
+      }
+    }
+  }
+  #animation {
+    .animation {
+      &--store {
+        &__moon {
+          h1 {
+            font-size: 30px !important;
+          }
+        }
+
+        &__moon2 {
+          h2 {
+            font-size: 23px !important;
+          }
+        }
+
+        &__moon3 {
+          h3 {
+            font-size: 20px !important;
+          }
+        }
+      }
+    }
+  }
+  #travel {
+    .travel {
+      &--nature {
+        &__image {
+          img {
+            width: 100%;
+          }
+        }
+      }
+    }
+  }
+}
+
+@media (max-width: 650px) {
+  #footer {
+    .footer {
+
+
+      &--company {
+        img {
+          left: -3px !important;
+        }
+      }
+    }
+  }
+  #zayavka {
+    .zayavka {
+      flex-wrap: wrap;
+    }
+  }
+  #paket {
+    .paket {
+      &--start {
+        p {
+          font-size: 11px !important;
+
+        }
+      }
+    }
+  }
+  #travel {
+    .travel {
+      h1 {
+
+        font-size: 31px !important;
+      }
+
+      &--nature {
+        flex-wrap: wrap;
+
+        &__image {
+          img {
+            width: 117%;
+          }
+        }
+      }
+    }
+  }
+
+  #animation {
+    .animation {
+      h1 {
+        font-size: 30px !important;
+      }
+
+      &--store {
+        &__moon {
+          h1 {
+            font-size: 25px !important;
+          }
+        }
+
+        &__moon2 {
+          h2 {
+            font-size: 17px !important;
+          }
+        }
+
+        &__moon3 {
+          h3 {
+            font-size: 15px !important;
+          }
+        }
+      }
+    }
+  }
+  #process {
+    h1 {
+      font-size: 26px !important;
+    }
+  }
+
+}
+
+@media (max-width: 576px) {
+  #zayavka {
+    .zayavka {
+      &--cap {
+        &__text {
+          flex-wrap: wrap;
+        }
+      }
+    }
+  }
+  #footer {
+    .footer {
+      &--company {
+        &__desc {
+          flex-direction: column !important;
+        }
+      }
+    }
+  }
+  #paket {
+    .paket {
+      &--start {
+        p {
+          font-size: 10px !important;
+
+        }
+      }
+    }
+  }
+  #travel {
+    .travel {
+      &--nature {
+        &__image {
+          img {
+            width: 104%;
+          }
+        }
+      }
+    }
+  }
+}
+
+@media (max-width: 450px) {
+  #footer {
+    .footer {
+      &--company {
+        &__desc {
+          flex-direction: column !important;
+        }
+      }
+
+      img {
+        display: none;
+
+
+      }
+    }
+  }
+  #accor {
+    .accor {
+      flex-wrap: wrap;
+
+      &--photo {
+        h1 {
+          font-size: 32px;
+        }
+      }
+    }
+
+  }
+  #zayavka {
+    .zayavka {
+      &--slash {
+        h1 {
+          font-size: 30px !important;
+        }
+      }
+
+      &--cap {
+        &__kaif {
+          input {
+            width: 345px !important;
+          }
+        }
+
+        &__text {
+          h1 {
+            font-size: 18px !important;
+          }
+        }
+
+      }
+    }
+  }
+  #paket {
+    .paket {
+      &--start {
+        h1 {
+          font-size: 30px !important;
+        }
+
+        p {
+          font-size: 8px !important;
+
+        }
+      }
+    }
+  }
+  #animation {
+    .animation {
+      &--store {
+        &__moon {
+          flex-wrap: wrap;
+        }
+
+        &__moon2 {
+          flex-wrap: wrap;
+        }
+
+        &__moon3 {
+          flex-wrap: wrap;
+        }
+      }
+    }
+  }
+  #format {
+    .format {
+
+      &--job {
+        width: 358px !important;
+        height: 340px !important;
+
+        &__camp {
+          width: 341px !important;
+        }
+
+        &__desc {
+          &--blue {
+            padding: 10px 13px !important;
+          }
+        }
+      }
+    }
+  }
+  .red {
+    font-size: 25px !important;
+  }
+  #miss {
+    .miss {
+      &--fon {
+        &__man {
+          p {
+            font-size: 12px !important;
+            padding-left: 10px;
+          }
+        }
+      }
+    }
+  }
+  #header {
+    .header {
+      &--nav {
+        &__group {
+          &--btn {
+            padding: 10px 10px !important;
+            font-size: 12px !important;
+          }
+        }
+      }
+    }
+  }
+  #hero {
+    .hero {
+      &--club {
+        h1 {
+          font-size: 32px !important;
+        }
+
+        p {
+          font-size: 16px;
+        }
+      }
+    }
+  }
+  #miss {
+    .miss {
+
+      h1 {
+        font-size: 25px !important;
+      }
+
+      &--fon {
+        &__man {
+          p {
+            padding-left: 20px;
+          }
+        }
+
+        &__left {
+          padding-left: 20px !important;
+        }
+      }
+    }
+  }
+  #travel {
+    .travel {
+      &--nature {
+        &__image {
+          img {
+            width: 100%;
+          }
+        }
+      }
+    }
+  }
+
+}
+
+@media (max-width: 400px) {
+  #footer {
+    .footer {
+      &--company {
+        &__desc {
+          flex-direction: column !important;
+        }
+      }
+
+      img {
+        display: none;
+
+
+      }
+    }
+  }
+  #header {
+
+    .header {
+      &--nav {
+        &__group {
+          &--btn {
+            display: none;
+          }
+        }
+      }
+    }
+  }
+  #hero {
+    .hero {
+      &--club {
+        &__bn {
+          margin: 0 5px !important;
+        }
+      }
+    }
+  }
+  #format {
+    .format {
+
+      &--job {
+        width: 329px !important;
+        height: 340px !important;
+
+        &__camp {
+          width: 314px !important;
+        }
+
+        &__desc {
+          &--blue {
+            padding: 10px 3px !important;
+          }
+        }
+      }
+    }
+  }
+  #process {
+    .process {
+      &--they {
+        flex-direction: column;
+      }
+    }
+  }
+  #paket {
+    .paket {
+      &--start {
+        p {
+          display: none !important;
+        }
+      }
+    }
+  }
+  #zayavka {
+    .zayavka {
+      &--slash {
+        h1 {
+          font-size: 28px !important;
+        }
+      }
+
+      &--cap {
+        &__kaif {
+          input {
+            width: 330px !important;
+          }
+        }
+
+        &__text {
+          h1 {
+            font-size: 18px !important;
+          }
+        }
+
+      }
+    }
+  }
+
+  .red {
+    font-size: 22px !important;
+    padding-left: 10px !important;
+  }
+  #animation {
+    .animation {
+      h1 {
+        font-size: 25px !important;
+      }
+
+      &--store {
+        &__moon3 {
+          h3 {
+            font-size: 13px !important;
+          }
+        }
+      }
+    }
+  }
+  #hero {
+    .hero {
+      &--club {
+        h1 {
+          font-size: 25px !important;
+        }
+
+        p {
+          padding: 5px 20px !important;
+        }
+
+        &__bn {
+          margin-left: 20px !important;
+          padding: 9px 25px !important;
+        }
+
+        &__bn1 {
+          margin: 13px 20px !important;
+          padding: 9px 25px !important;
+        }
+      }
+    }
+  }
+  #miss {
+    .miss {
+      &--fon {
+        &__man {
+          width: 95% !important;
+
+          img {
+            width: 90% !important;
+          }
+        }
+      }
+    }
+  }
+  #travel {
+    .travel {
+      &--nature {
+        &__image {
+          img {
+            width: 100%;
+          }
+        }
+      }
+    }
+  }
+
+}
+
+@media (max-width: 375px) {
+  #header {
+
+    .header {
+      &--nav {
+        &__group {
+          img {
+            padding: 0 10px !important;
+          }
+        }
+      }
+    }
+  }
+  #zayavka {
+    .zayavka {
+      &--slash {
+        h1 {
+          font-size: 30px !important;
+        }
+      }
+
+      &--cap {
+        &__kaif {
+          input {
+            width: 313px !important;
+            height: 52px !important;
+          }
+        }
+
+        &__text {
+          h1 {
+            font-size: 18px !important;
+          }
+        }
+
+      }
+    }
+  }
+  #accor {
+    .accor {
+      &--photo {
+        h1 {
+          font-size: 29px !important;
+          padding-left: 73px !important;
+        }
+
+        img {
+          margin: 20px 106px !important;
+        }
+      }
+    }
+  }
+  #format {
+    .format {
+
+      &--job {
+        width: 286px !important;
+        height: 330px !important;
+
+        &__camp {
+          width: 263px !important;
+        }
+
+        &__desc {
+          &--blue {
+            display: none !important;
+          }
+        }
+      }
+    }
+  }
+  #hero {
+    .hero {
+      &--club {
+        h1 {
+          font-size: 25px !important;
+        }
+
+        p {
+          padding: 5px 20px !important;
+        }
+
+        &__bn {
+          margin-left: 20px !important;
+          padding: 9px 25px !important;
+        }
+
+        &__bn1 {
+          margin: 13px 20px !important;
+          padding: 9px 25px !important;
+        }
+      }
+    }
+  }
+  #paket {
+    .paket {
+      &--dollar {
+        &__market {
+          h2 {
+            width: 337px !important;
+          }
+        }
+      }
+    }
+  }
+  #miss {
+    .miss {
+      &--fon {
+        &__man {
+          width: 95% !important;
+
+          img {
+            width: 90% !important;
+          }
+        }
+      }
+    }
+  }
+  #travel {
+    .travel {
+      &--nature {
+        &__image {
+          img {
+            width: 100%;
+          }
+        }
+      }
+    }
+  }
+}
+
+@media (max-width: 320px) {
+  #header {
+
+    .header {
+      &--nav {
+        &__group {
+          img {
+            display: none !important;
+          }
+
+          &--btn {
+            display: none;
+          }
+        }
+      }
+    }
+  }
+  #travel {
+    .travel {
+      &--nature {
+&__image{
+  img{
+    width: 100%;
+  }
+}
+        button {
+          display: none !important;
+        }
+
+        &__icon {
+          flex-wrap: wrap !important;
+          width: 300px !important;
+        }
+
+        &__country {
+          h2 {
+            font-size: 17px !important;
+          }
+
+          p {
+            font-size: 9px !important;
+          }
+        }
+      }
+    }
+  }
+  #paket {
+    .paket {
+      &--dollar {
+        height: 437px !important;
+
+        &__market {
+          h2 {
+            width: 288px !important;
+          }
+
+          &--doll {
+            h1 {
+              font-size: 33px !important;
+            }
+
+          }
+        }
+      }
+    }
+  }
+  #zayavka {
+    .zayavka {
+      &--slash {
+        h1 {
+          font-size: 30px !important;
+        }
+      }
+
+      &--cap {
+        &__kaif {
+          input {
+            width: 260px !important;
+            height: 52px !important;
+          }
+        }
+
+        &__text {
+          h1 {
+            font-size: 18px !important;
+          }
+
+          button {
+            width: 190px !important;
+            margin-left: 20px !important;
+          }
+        }
+
+      }
+    }
+  }
+  //  #accor{
+  //    .accor{
+  //      &--dem{
+  //        input{
+  //.accordion{
+  //  +label{
+  //    font-size: 17px !important;
+  //  }
+  //}
+  //        }
+  //      }
+  //    }
+  //  }
+
+  #accor .accor--dem input.accordion + label {
+    font-size: 17px !important;
+  }
+  #footer {
+
+    .footer {
+      &--company {
+
+        &__desc {
+          &--none2 {
+            &__inp {
+
+              input {
+                width: 220px !important;
+
+              }
+
+              button {
+
+                left: 55% !important;
+
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  #format {
+    .format {
+
+      &--job {
+        width: 243px !important;
+        height: 340px !important;
+
+        &__camp {
+          width: 242px !important;
+        }
+
+        &__desc {
+          &--blue {
+            padding: 10px 3px !important;
+          }
+        }
+      }
+    }
+  }
+  #miss{
+    .miss{
+      h1{
+        font-size: 23px !important;
+      }
+      &--fon{
+        &__left{
+          h3{
+            font-size: 12px !important;
+            span{
+              font-size: 12px !important;
+            }
+          }
+        }
+      }
+    }
+  }
+  #hero{
+    .hero{
+      &--club{
+        p{
+          font-size: 12px !important;
+        }
+      }
+      &--right{
+        p{
+          font-size: 11px !important;
+        }
+      }
+    }
+  }
+}
+
+
+
+
+
+
+

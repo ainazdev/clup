@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.container{
+  width:90%;
+  margin: 0 auto;
+}
+a{
+  text-decoration: none;
+}
+button{
+  cursor: pointer;
+  border: none;
+}
+body{
+  font-family: 'Poppins',sans-serif;
+  //overflow-x: hidden;
+}
+
+$accent-color: #45ADA8;
+$text-padding: 25px;
